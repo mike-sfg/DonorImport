@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 #
 # Name: DonorImport 1.3.02
-# Date: -5-09-2019
+# Date: 5-09-2019
 # Copyright: 2019 Michael Bates
 # Website: https://bates.link/donorimport/
 # Author: Michael Bates
