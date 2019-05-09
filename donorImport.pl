@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 #
-# Name: DonorImport 1.3.01
-# Date: 03-22-2019
+# Name: DonorImport 1.3.02
+# Date: -5-09-2019
 # Copyright: 2019 Michael Bates
 # Website: https://bates.link/donorimport/
 # Author: Michael Bates
@@ -21,7 +21,7 @@ use Digest::MD5 qw( md5_hex );
 
 
 # Constants
-use constant DONORIMPORT_VERSION => "1.3.01";
+use constant DONORIMPORT_VERSION => "1.3.02";
 
 # constants defining the index of our program's record digest
 use constant {
